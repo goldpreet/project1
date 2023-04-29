@@ -1,0 +1,13 @@
+.joy{
+    font-family: 'Chivo Mono', monospace;
+font-family: 'Poppins', sans-serif;
+text-align: center;
+    color:red;
+    }
+    p {
+        color: blue;
+      }
+      #id1 {
+        color: green;
+        text-align: right;
+      }
